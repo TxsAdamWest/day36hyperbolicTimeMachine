@@ -127,3 +127,34 @@ body {
 /**
  * App code
  */
+
+
+  .logo {
+    height:25vh;
+    width:60%;
+    margin: 20px 17.5%;
+    z-index:2;
+  }
+
+  .console {
+    text-align: center;
+    padding: 5px;
+    width: 30%;
+    margin: 10px 23%;
+    min-width:50%;
+    font-size:30px;
+  }
+
+  button {
+    border:none;
+    background-color: transparent;
+  }
+
+   body { 
+    background: url('http://thedaoofdragonball.com/wp-content/uploads/2013/09/room-of-spirit-time-front.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+ 
